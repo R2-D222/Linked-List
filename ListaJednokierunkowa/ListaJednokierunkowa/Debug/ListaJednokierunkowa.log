@@ -1,0 +1,4 @@
+﻿  ListaJednokierunkowa.cpp
+c:\users\kowol\onedrive\desktop\zajęcia\programowanie\algorytmyisd\program_algorytm\listajednokierunkowa\listajednokierunkowa\listajednokierunkowa.cpp(246): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\kowol\onedrive\desktop\zajęcia\programowanie\algorytmyisd\program_algorytm\listajednokierunkowa\listajednokierunkowa\listajednokierunkowa.cpp(242): warning C4715: "usunk”: niewszystkie ścieżki kodu zwracają wartość
+  ListaJednokierunkowa.vcxproj -> C:\Users\kowol\OneDrive\Desktop\Zajęcia\Programowanie\AlgorytmyISD\Program_Algorytm\ListaJednokierunkowa\Debug\ListaJednokierunkowa.exe
